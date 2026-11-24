@@ -49,6 +49,10 @@
     {
       "include": "/config/layers/des_s3_slstr_l2lst.json",
       "type": "json"
+    },
+    {
+      "include": "/config/layers/des_s1_sar_rtc.json",
+      "type": "json"
     }
   ]
 }
