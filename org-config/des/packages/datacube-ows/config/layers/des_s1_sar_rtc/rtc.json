@@ -10,7 +10,7 @@
   },
   "native_crs": "EPSG:3006",
   "image_processing": {
-    "extent_mask_func": "datacube_ows.ogc_utils.mask_by_val",
+    "extent_mask_func": "datacube_ows.ogc_utils.mask_by_nan",
     "always_fetch_bands": []
   },
   "styling": {
